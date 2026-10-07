@@ -7,3 +7,7 @@
 ## Descripción
 
 Este repositorio contiene el proyecto desarrollado para la T2 del curso Lenguaje de Programación II. Su finalidad es aplicar el control de versiones utilizando Git, permitiendo registrar y gestionar los cambios realizados durante el desarrollo del proyecto.
+
+## Evidencia T2
+
+Esta sección corresponde a la Evaluación T2 del curso Lenguaje de Programación II y permite evidenciar la modificación realizada después de establecer la línea base inicial del repositorio.
