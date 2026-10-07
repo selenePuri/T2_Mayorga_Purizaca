@@ -1,0 +1,2 @@
+Archivo creado como parte de la Evaluación 02 del curso Lenguaje de 
+Programación II para evidenciar la gestión de cambios mediante Git.
