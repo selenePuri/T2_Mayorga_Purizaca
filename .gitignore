@@ -1,0 +1,15 @@
+# Maven
+target/
+
+# Eclipse
+.settings/
+.classpath
+.project
+bin/
+
+# Archivos compilados de Java
+*.class
+
+# Archivos temporales
+*.tmp
+*.log
